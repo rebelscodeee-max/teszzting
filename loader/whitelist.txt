@@ -66,3 +66,4 @@ ayzxr0 --perm
 Noisaja --perm
 Suiinzz --perm
 alfodr_kingdom --perm
+Qastrola --perm
